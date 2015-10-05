@@ -1,0 +1,63 @@
+<resources>
+    <string name="content_authority">sample.com.horoscope</string>
+    <string name="app_name">Horoscope</string>
+    <string name="aquarius">Aquarius</string>
+    <string name="aries">Aries</string>
+    <string name="cancer">Cancer</string>
+    <string name="capricorn">Capricorn</string>
+    <string name="gemini">Gemini</string>
+    <string name="libra">Libra</string>
+    <string name="lion">Leo</string>
+    <string name="pisces">Pisces</string>
+    <string name="sagittarius">Sagittarius</string>
+    <string name="scorpio">Scorpio</string>
+    <string name="taurus">Taurus</string>
+    <string name="virgo">Virgo</string>
+
+    <string name="ariestimeline">March 21 – April 20</string>
+    <string name="taurustimeline">April 21 – May 20</string>
+    <string name="geminitimeline">May 21 – June 20</string>
+    <string name="cancertimeline">June 21 – July 20</string>
+    <string name="leotimeline">July 21 – August 20</string>
+    <string name="virgotimeline">August 21 – September 20</string>
+    <string name="libratimeline">September 21 – October 20</string>
+    <string name="scorpiotimeline">October 21 – November 20</string>
+    <string name="sagittariustimeline">November 21 – December 20</string>
+    <string name="capricorntimeline">December 21 – January 20</string>
+    <string name="aquariustimeline">January 21 – February 20</string>
+    <string name="piscestimeline">February 21 – March 20</string>
+    <string name="teststring">Interest in art from distant lands might capture your interest today, possibly through the influence of friends. Your desire to travel may be awakened, and you might toy with the idea of visiting faraway places, perhaps in the company of a lover. If youre serious, start doing research. This is a great day to plan a vacation.</string>
+    <string name="testtitlestring">Horoscope for October 05/10/2014</string>
+
+
+
+    <string name="Horoscopefortheday">Horoscope For the Day</string>
+    <string name="Horoscopefortheweek">Horoscope for the week</string>
+    <string name="Horoscopeforthemonth">Horoscope for the month</string>
+    <string name="Horoscopefortheyear">Horoscope for the year</string>
+    <string name="Contactus">Contact us</string>
+
+    <string name="pleaserefreshdata">Please Refresh Data</string>
+    <string name="apikey">AIzaSyDlAzfWIYpYA4N_PfFIRcCHrj039h71ze4</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="horoscope_widget">Horoscope Widget</string>
+    <string name="LaunchApp">Launch App</string>
+    <string name="splashscreenimage">splash screen image</string>
+    <string name="homescreenbackgroungimage">Home Horoscope Background Image</string>
+    <string name="listviewscreenbackgroungimage">List Horoscope Background Image</string>
+    <string name="share">share</string>
+    <string name="internet_not_available">Internet is not available</string>
+    <string name="no_data_available_for_display">Horoscope App \n No Existing Data Available for Display \n Please connect to network and launch </string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
